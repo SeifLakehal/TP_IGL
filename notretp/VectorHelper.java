@@ -15,7 +15,7 @@ public class VectorHelper {
  
         
     public static int getInt(String prompt) {
-        System.out.print(prompt + " ");
+        System.out.print(prompt + "++++++ ");
 	
 	System.out.print("Resolving Conflict ");
 	int entier = input.nextInt();
